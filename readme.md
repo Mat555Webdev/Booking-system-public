@@ -129,7 +129,7 @@ MongoDB atlas will be used for the database which is a cloud solution.
 
     - Frontend and backend were deployed on the same platform because nextjs(SSR frontend) and     express restful-api(backend) is running on the same port.
 
-    - link to app https://booking-final-capstone.herokuapp.com/
+    - link to app https://booking-system-v2.herokuapp.com/
 
     
 
