@@ -1,5 +1,3 @@
-**Final-Capstone Project**
-
 **Product name: Sleep-Well Guest-House**
 
 **Product description: Booking System implemented with a guest house**
